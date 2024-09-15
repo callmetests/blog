@@ -1,0 +1,25 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.linkedin.com	TRUE	/	FALSE	1999999999	JSESSIONID	ajax:7812077015587656117
+www.linkedin.com	TRUE	/	FALSE	1999999999	lang	v=2&lang=en-us
+.linkedin.com	TRUE	/	FALSE	1999999999	lidc	b=OGST04:s=O:r=O:a=O:p=O:g=3297:u=1:x=1:i=1726310428:t=1726396828:v=2:sig=AQFan9IbnEN4fFqEWdfb3V87-Nf-5q_m"
+www.linkedin.com	TRUE	/	FALSE	1999999999	li_rm	AQF3dFKgvHveVwAAAZHwHrNoX_YDtfSQM6ETjc5ULLMLxS0m4C7jvOYtnMy595Qf5ARprk67sKQlS81E7U65ixep2j4fnXKzJLVQHDZZrEXABvsCa6QHCzHi
+.www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_marketing	v1%3A172631043157347443
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_ads	v1%3A172631043157347443
+.twitter.com	TRUE	/	FALSE	1999999999	personalization_id	v1_5XOIDc6RBAIYZbM2m7MMnQ=="
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A172631043157347443
+.twitter.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.x.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.hsforms.net	TRUE	/	FALSE	1999999999	__cf_bm	5RiTLiq3hcq1GFy2tZORSuxcIo2qavhXple5VNo3CSY-1726310439-1.0.1.1-11YlIL1oqWdYkgvKPolGlhI04EvhVWmIOQcRyfn4JyZTt8P.FkjZjd0WPGDLeBv0dnuxkIllkq47zmxYEJu92g
+ujjwl-145421854.hubspotpagebuilder.eu	TRUE	/	FALSE	1999999999	SameSite	None
+.facebook.com	TRUE	/	FALSE	1999999999	noscript	1
+.linkedin.com	TRUE	/	FALSE	1999999999	bcookie	v=2&5b9b7f0c-7055-4843-8366-d6742c587fe4"
+.www.linkedin.com	TRUE	/	FALSE	1999999999	bscookie	v=1&20240914104101a7c24ecc-05a6-47ed-85ba-fcd9baf3330cAQHiLvJp9I2GZJkziVGMbxbFuAXegh4E"
+www.linkedin.com	TRUE	/	FALSE	1999999999	SameSite	None
+.x.com	TRUE	/	FALSE	1999999999	guest_id_marketing	v1%3A172631046600568279
+.x.com	TRUE	/	FALSE	1999999999	guest_id_ads	v1%3A172631046600568279
+.x.com	TRUE	/	FALSE	1999999999	personalization_id	v1_CqU8V3VgA3ysHqlPBXm31g=="
+.x.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A172631046600568279
+x.com	TRUE	/	FALSE	1999999999	SameSite	None
+
